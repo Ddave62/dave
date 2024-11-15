@@ -1,0 +1,69 @@
+img {width: 200px; margin-right: 1cm; border-radius: 10px;}
+h1{text-align: center;}
+h1 {background-color: grey;paddi}
+body {background-color: rgba(63, 41, 52, 0.5)
+ ;text-decoration: solid; text-decoration-color: blue;}
+th {background-color: aquamarine;}
+td {background-color: beige;text-decoration: solid;}
+h4 {color: black;}
+button {background-color: #ff7300; color: rgba(245, 245, 220, 0.993);border-radius: 50px;}
+
+#can1 {background-color: bisque;margin: o.6cm;}
+#can2 {background-color: rgba(9, 236, 66, 0.4);margin: 1cm;}
+
+body {
+    background:linear-gradient(to top, rgba(231, 207, 207, 0.5)50%, rgba(141, 137, 129, 0.5)50%), url(30.jpg);
+}
+
+
+ .login {background-color:  rgb(255, 102, 0); color: beige;
+ position: absolute;
+ top: 15%;
+ right: 0.5%;
+ transform: translate(-17%,-50%);}
+ 
+ .newaccount {background-color: rgb(255, 102, 0); color: beige;
+    position: absolute;
+    top: 19%;
+    right: 0.7%;
+    transform: translate(-7%,-50%)}
+
+.contactus {background-color:  rgb(255, 102, 0); color: beige;
+    position: absolute;
+    top: 330%; 
+    right: 0.7%;
+    transform: translate(-7%,-50%)
+}
+div.firstbold {text-align: center;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
